@@ -58,7 +58,7 @@ def get_all_relevant_commits():
             "shopify/shopify_app",
             "woocommerce/woocommerce",
             "prestashop/prestashop",
-            "nopCommerce/nopCommerce",
+            "nopSolutions/nopCommerce",
             "opencart/opencart",
             "drupal/drupal",
             "wojodesign/simplecart-js",
